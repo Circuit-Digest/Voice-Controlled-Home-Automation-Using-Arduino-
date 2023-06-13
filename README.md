@@ -1,6 +1,6 @@
 # [Voice Controlled Home Automation Using Arduino ](https://circuitdigest.com/microcontroller-projects)
 
-<img src="https://github.com/Circuit-Digest/Voice-Controlled-Home-Automation-Using-Arduino-/blob/6b3b7fb8ea6aee5f9b8691e21bcdffc006a2d936/Voice%20Controlled%202.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Automatic-Plant-Watering-System/blob/08def93bfb65cb496723a41067a7a980ea88e7c5/Title%20Image.png" width="" alt="alt_text" title="image_tooltip">
 <br>
 
 <br>
@@ -10,7 +10,7 @@
 [<h1>Click here](https://circuitdigest.com/tags/arduino) for the complete tutorials on Arduino basics.</h1>
 <br>
 <br>
-Voice Controlled Home Automation Using Arduino is an exciting project that aims to automate home appliances with the power of voice commands. In this project, voice instructions will be recognised, and text-to-speech conversion will be performed using an Android app. The HC-05 module will then be used to transmit the text data via Bluetooth to an Arduino microcontroller. This system is very practical and user-friendly because it enables users to simply control and manage home appliances using basic voice commands. This idea offers a new degree of automation and efficiency in managing home appliances thanks to the integration of modern technology.
+Are you tired of constantly monitoring your plants' water needs or worried about leaving them unattended while you're away? Today we are going to make a simple yet effective project for that. In this project we will constantly monitor the soil moisture level using a capacitive sensor. When the moisture level goes below a certain level, the microcontroller will turn on the pump and water the plants. 
 
 <br>
 <br>
